@@ -1,20 +1,12 @@
-<h1>Altay<img src="http://fs1.directupload.net/images/180401/urn5z9ic.png" height="64" width="64" align="left"></img></h1>
-<br />
-
-A server software for Minecraft: Bedrock/W10 Edition. Altay is a fork of [pmmp](https://github.com/pmmp/PocketMine-MP)
-
-------------       
-
-| Jenkins | TravisCI | Discord | Twitter |
-| :---: | :---: | :---: | :---: |
-| [![Build Status](http://entengames.net:8181/job/Altay/badge/icon)](http://entengames.net:8181/job/Altay/) | [![Travis branch](https://img.shields.io/travis/TuranicTeam/Altay/master.svg?style=flat-square)](https://travis-ci.org/TuranicTeam/Altay) | [![Discord](https://img.shields.io/discord/427472879072968714.svg?style=flat-square&label=discord&colorB=7289da)](https://discord.gg/UsuhCFj) | [![Twitter Follow](https://img.shields.io/twitter/follow/TuranicTeam.svg?style=flat-square&logo=twitter&label=Follow)](https://twitter.com/TuranicTeam) |
-
+A server software for Minecraft: Bedrock Edition
 ------------
 
-## Why should I prefer Altay?
+## Why should I prefer PaperPMMP?
 
-Because Altay has more features and improvements than PocketMine-MP
+Because PaperPMMP has more features and improvements than PocketMine-MP
 
+- Old Scheduler
+- Built in Devtools
 - Map Items (API only)
 - Fishing
 - Leashing Mobs
@@ -34,14 +26,3 @@ Because Altay has more features and improvements than PocketMine-MP
 - More Inventory (PlayerOffHandInventory)
 
 And more...
-
-### Can I test this before I download it?
-
-Yes, you can.
-
-- **entengames.net:19132**
-- **play.oyungg.net:19132**
-
-#### Do you need help about Altay?
-
-Join our Discord group and contact us!
