@@ -1,9 +1,9 @@
 A server software for Minecraft: Bedrock Edition
 ------------
 
-## Why should I prefer PaperPMMP?
-
-Because PaperPMMP has more features and improvements than PocketMine-MP
+## Why should I prefer Aldous?
+## Also I want my daddy to see this
+Because Aldous has more features and improvements than PocketMine-MP
 
 - Old Scheduler
 - Built in Devtools
